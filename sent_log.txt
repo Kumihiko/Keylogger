@@ -1,0 +1,12 @@
+[06/30/25-10-2025, 13:10:06/30/25] <built-in method strip of str object at 0x0000016014593870>
+[06/30/25-10-2025, 13:10:06/30/25] <built-in method strip of str object at 0x000001601285F8D0>
+[06/30/25-10-2025, 13:10:06/30/25] <built-in method strip of str object at 0x00000160145BC0F0>
+[06/30/25-10-2025, 13:10:06/30/25] <built-in method strip of str object at 0x0000016012797990>
+[06/30/25-11-2025, 13:11:06/30/25] <built-in method strip of str object at 0x0000016012C8ED90>
+[06/30/25-11-2025, 13:11:06/30/25] <built-in method strip of str object at 0x00007FFAE4AECF60>
+[06/30/25-18-2025, 13:18:06/30/25] test123test123
+[06/30/25-18-2025, 13:18:06/30/25] weWEBHOOK_URL = "
+[06/30/25-19-2025, 13:19:06/30/25] impo reque
+[06/30/25-19-2025, 13:19:06/30/25] def_ send_to_discord)(message:
+[06/30/25-19-2025, 13:19:06/30/25] payload = {
+[06/30/25-19-2025, 13:19:06/30/25] "content: f
