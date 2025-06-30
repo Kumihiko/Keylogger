@@ -12,7 +12,8 @@ Buffers typed text and sends it to Discord upon pressing Enter
 Logs all keystrokes with timestamps to a local log file (log.txt)
 
 ![image](https://github.com/user-attachments/assets/10ee85ed-1364-40ff-8b07-77a03c0cd0bc)
-
+‼️you need to put your own webhook in code to work like that‼️
+  mine was made only for test purpose and doesn't exist anymore
 ![image](https://github.com/user-attachments/assets/25bb6441-da53-41be-b237-f1520cbb7e73)
 
 
