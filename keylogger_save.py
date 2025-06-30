@@ -30,7 +30,7 @@ def send_buffer():
     global buffer
     message = ''.join(buffer).strip()
     if message:
-        print(f"🚀 Sending: {message}")
+        print(f"Sending: {message}")
         send_to_discord(message)  # ← tu faktyczna wysyłka
     buffer = []
             

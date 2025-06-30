@@ -10,3 +10,4 @@
 [06/30/25-19-2025, 13:19:06/30/25] def_ send_to_discord)(message:
 [06/30/25-19-2025, 13:19:06/30/25] payload = {
 [06/30/25-19-2025, 13:19:06/30/25] "content: f
+## not needed anymore cos data is sent to discord
