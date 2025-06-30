@@ -11,7 +11,7 @@ Buffers typed text and sends it to Discord upon pressing Enter
 
 Logs all keystrokes with timestamps to a local log file (log.txt)
 
-![image](https://github.com/user-attachments/assets/cefca02d-3b8f-4bd7-a7d4-acf0e63caa33)
+![image](https://github.com/user-attachments/assets/10ee85ed-1364-40ff-8b07-77a03c0cd0bc)
 
 ![image](https://github.com/user-attachments/assets/25bb6441-da53-41be-b237-f1520cbb7e73)
 
